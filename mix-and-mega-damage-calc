@@ -1089,14 +1089,14 @@
     <script type="text/javascript" src="./js/data/ability_data.js"></script>
     <script type="text/javascript" src="./js/data/item_data.js"></script>
     <script type="text/javascript" src="./js/data/move_data.js"></script>
-    <script type="text/javascript" src="./js/ap_calc.js"></script>
-    <script type="text/javascript" src="./js/calc_ab.js"></script>
-    <script type="text/javascript" src="./js/damage.js"></script>
-    <script type="text/javascript" src="./js/damage_dpp.js"></script>
-    <script type="text/javascript" src="./js/damage_rse.js"></script>
-    <script type="text/javascript" src="./js/damage_gsc.js"></script>
-    <script type="text/javascript" src="./js/damage_rby.js"></script>
-    <script type="text/javascript" src="./js/ko_chance.js"></script>
+    <script type="text/javascript" src="./js/calc1.js"></script>
+    <script type="text/javascript" src="./js/calc2.js"></script>
+    <script type="text/javascript" src="./js/damage1.js"></script>
+    <script type="text/javascript" src="./js/damage1_dpp.js"></script>
+    <script type="text/javascript" src="./js/damage1_rse.js"></script>
+    <script type="text/javascript" src="./js/damage1_gsc.js"></script>
+    <script type="text/javascript" src="./js/damage1_rby.js"></script>
+    <script type="text/javascript" src="./js/ko.js"></script>
     <script type="text/javascript" src="./js/moveset_import.js"></script>
 </div>
 
